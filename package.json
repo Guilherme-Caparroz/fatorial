@@ -1,0 +1,12 @@
+{
+    "name": "fatorial-node",
+    "version": "1.0.0",
+    "description": "Projeto Node.js para fatorar com testes",
+    "main": "fatorial.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^29.0.0"
+    }
+}
