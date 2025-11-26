@@ -6,3 +6,5 @@ function fatorial(numero) {
     }
     return fatorial;
 }
+
+module.exports = fatorial;

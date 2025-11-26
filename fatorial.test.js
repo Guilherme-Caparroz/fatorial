@@ -1,4 +1,4 @@
-const { fatorial } = require('./fatorial');
+const fatorial = require('./fatorial');
 
 describe('Função fatorial', () => {
   test('fatorial de 1', () => {
